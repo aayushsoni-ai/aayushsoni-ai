@@ -110,7 +110,7 @@ React • Node.js • Socket.io • MongoDB
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/aayushsoni-ai/aayushsoni-ai/output/github-contribution-grid-snake.svg"/>
+![Snake animation](https://github.com/aayushsoni-ai/aayushsoni-ai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
