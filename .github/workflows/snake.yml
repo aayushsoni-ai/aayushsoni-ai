@@ -9,18 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake svg
         uses: Platane/snk@v3
         with:
           github_user_name: aayushsoni-ai
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: github-snake.svg
 
-      - name: Deploy to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Create output branch and push file
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          branch: output
-          folder: dist
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
