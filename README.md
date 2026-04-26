@@ -53,6 +53,22 @@ https://aayushsoni.vercel.app/
 
 ---
 
+
+### 🎯 Prept — AI-Powered Interview Marketplace
+
+Features  
+• Mock interview booking  
+• Real-time WebRTC video calls  
+• AI-generated interview feedback  
+• Interviewer earnings & withdrawals  
+• Role-based dashboards  
+• Smart credit subscription system  
+
+Tech  
+Next.js • React • Prisma • Clerk • Tailwind CSS • WebRTC • Resend • PostgreSQL • Vercel
+
+---
+
 # 🚀 Featured Projects
 
 ### 🛒 Fabrix — Full Stack E-Commerce
