@@ -108,9 +108,7 @@ React • Node.js • Socket.io • MongoDB
 
 ---
 
-# 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/aayushsoni-ai/aayushsoni-ai/output/github-contribution-grid-snake.svg)
----
+
 
 # 🌐 Connect With Me
 
