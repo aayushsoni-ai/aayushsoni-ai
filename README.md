@@ -53,6 +53,9 @@ https://aayushsoni.vercel.app/
 
 ---
 
+# 🚀 Featured Projects
+
+---
 
 ### 🎯 Prept — AI-Powered Interview Marketplace
 
@@ -68,8 +71,6 @@ Tech
 Next.js • React • Prisma • Clerk • Tailwind CSS • WebRTC • Resend • PostgreSQL • Vercel
 
 ---
-
-# 🚀 Featured Projects
 
 ### 🛒 Fabrix — Full Stack E-Commerce
 
