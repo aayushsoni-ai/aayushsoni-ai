@@ -68,7 +68,7 @@ Features
 • Smart credit subscription system  
 
 Tech  
-Next.js • React • Prisma • Clerk • Tailwind CSS • WebRTC • Resend • PostgreSQL • Vercel
+Next.js • React • Prisma • Clerk • Tailwind CSS • WebRTC • PostgreSQL • Gmail SMTP • GenAI • Vercel
 
 ---
 
