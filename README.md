@@ -134,11 +134,8 @@ A production-ready e-commerce platform with a full admin suite and Stripe paymen
 
 ## 🟩 Contribution Graph
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.pumbas.net/api/contributions/aayushsoni-ai?bgColour=0d1117&colour=39d353&borderColour=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.pumbas.net/api/contributions/aayushsoni-ai?colour=216e39&bgColour=ffffff"/>
-  <img alt="Aayush's GitHub Contribution Graph" src="https://github.pumbas.net/api/contributions/aayushsoni-ai?bgColour=0d1117&colour=39d353&borderColour=0d1117" width="100%"/>
-</picture>
+[![Aayush's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayushsoni-ai&bg_color=161b22&color=39d353&line=39d353&point=57ff8a&area=true&area_color=1a4731&hide_border=true)](https://github.com/aayushsoni-ai)
+ 
 ---
 
 ## 🌐 Connect With Me
