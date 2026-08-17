@@ -116,6 +116,7 @@ A production-ready e-commerce platform with a full admin suite and Stripe paymen
 - Shipped a real-time **WebSocket notification system** improving daily engagement by ~**15%**
 
 ---
+<!--
 
 ## 📊 GitHub Stats
 
@@ -136,6 +137,7 @@ A production-ready e-commerce platform with a full admin suite and Stripe paymen
  
 [![Aayush's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayushsoni-ai&bg_color=161b22&color=39d353&line=39d353&point=57ff8a&area=true&area_color=1a4731&hide_border=true)](https://github.com/aayushsoni-ai)
  
+-->
 ---
 
 ## 🌐 Connect With Me
@@ -159,7 +161,7 @@ A production-ready e-commerce platform with a full admin suite and Stripe paymen
 </p>
 
 ---
-
+<!--
 <div align="center">
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
@@ -167,3 +169,5 @@ A production-ready e-commerce platform with a full admin suite and Stripe paymen
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+
+-->
