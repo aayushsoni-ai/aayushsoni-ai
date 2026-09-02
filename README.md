@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aayush%20Soni&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
@@ -170,4 +170,4 @@ A production-ready e-commerce platform with a full admin suite and Stripe paymen
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
--->
+--> -->
